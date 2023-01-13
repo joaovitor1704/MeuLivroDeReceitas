@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ifGAwDWMNJwYJR/FTfK5Rf5CugQtNOx7CiVQZCzfnmKoBFHX/vX3kNNHYOQEaWwLrlIajbsc1j+AyLNGYFRxgA==",
+  "dgSpecHash": "vbDb90Kh3C2ikp/0pW8okTc14EeyyWePQyGCGwV5iSSYvy0JVJwnaM9agUm6g11qoCk2l54qCDG32c6tCrkOgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\joaov\\OneDrive\\Documentos\\Udemy\\MeuLivroDeReceitas\\src\\Backend\\MeuLivroDeReceitas.Application\\MeuLivroDeReceitas.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

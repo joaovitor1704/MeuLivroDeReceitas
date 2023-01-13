@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "hkfNAQG+2HVXJjw39pEizfqNLawpfNW1rX3umLQrXS/fte88tgNJ/pSiHRCWuVs3BPKBYr4JcmsePUaQskR8lQ==",
+  "dgSpecHash": "d8PsmHe56G4A0Mum7d+2jni+e+U1YnTuvne3KWkkQ2nhWkU+xIGfkaeIm/qS0BISrzBDUReUhGdF3MGH7cVwfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaov\\OneDrive\\Documentos\\Udemy\\MeuLivroDeReceitas\\MeuLivroDeReceitas.Infrastructure\\MeuLivroDeReceitas.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\joaov\\OneDrive\\Documentos\\Udemy\\MeuLivroDeReceitas\\src\\Backend\\MeuLivroDeReceitas.Infrastructure\\MeuLivroDeReceitas.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

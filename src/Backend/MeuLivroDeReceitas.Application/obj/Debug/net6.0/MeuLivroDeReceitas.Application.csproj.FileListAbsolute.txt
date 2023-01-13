@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\bin\Debug\net6.0\MeuLivroDeReceitas.Application.deps.json
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\bin\Debug\net6.0\MeuLivroDeReceitas.Application.dll
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\bin\Debug\net6.0\MeuLivroDeReceitas.Application.pdb
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.dll
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.pdb
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\MeuLivroDeReceitas.Application.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\MeuLivroDeReceitas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\MeuLivroDeReceitas.Application.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\MeuLivroDeReceitas.Application.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\MeuLivroDeReceitas.Application.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\MeuLivroDeReceitas.Application.csproj.CopyComplete
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\MeuLivroDeReceitas.Application.dll
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\refint\MeuLivroDeReceitas.Application.dll
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\MeuLivroDeReceitas.Application.pdb
+C:\Users\joaov\OneDrive\Documentos\Udemy\MeuLivroDeReceitas\src\Backend\MeuLivroDeReceitas.Application\obj\Debug\net6.0\ref\MeuLivroDeReceitas.Application.dll
